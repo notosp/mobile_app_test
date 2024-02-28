@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_Login_valid_crd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f75fb5db-b6bc-4bc8-ac1f-927267e4551d</testCaseGuid>
+</TestCaseEntity>

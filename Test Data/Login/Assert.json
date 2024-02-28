@@ -1,0 +1,8 @@
+{
+	"title": "Login",
+	"desc": "Select a username and password from the list below, or click on the usernames to automatically populate the username and password.",
+	"error": {
+		"invalidCredential": "Provided credentials do not match any user in this service.",
+		"blockedCredential": "Sorry, this user has been locked out."
+	}
+}
